@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_machine_learning"
+        android:icon="@mipmap/ic_machine_learning"
+        android:title="Machine Learning" />
+    <item
+        android:id="@+id/menu_deep_learning"
+        android:icon="@mipmap/ic_deep_learning"
+        android:title="Deep Learning" />
+    <item
+        android:id="@+id/menu_reinforcement_learning"
+        android:icon="@mipmap/ic_reinforcement_learning"
+        android:title="Reinforcement Learning" />
+    <item
+        android:id="@+id/menu_recommendation_algorithm"
+        android:icon="@mipmap/ic_recommendation_algorithm"
+        android:title="Recommendation Algorithm" />
+    <item
+        android:id="@+id/menu_computer_vision"
+        android:icon="@mipmap/ic_computer_vision"
+        android:title="Computer Vision" />
+    <item
+        android:id="@+id/menu_nlp"
+        android:icon="@mipmap/ic_nlp"
+        android:title="NLP" />
+    <item
+        android:id="@+id/menu_matrix_theory"
+        android:icon="@mipmap/ic_matrix_theory"
+        android:title="Matrix Theory" />
+    <item
+        android:id="@+id/menu_java"
+        android:icon="@mipmap/ic_probability_theory"
+        android:title="Probability Theory" />
+</menu>
